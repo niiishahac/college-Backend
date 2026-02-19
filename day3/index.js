@@ -16,6 +16,3 @@ try {
 } catch (error) {
     console.log("Error:", error.message);
 }
-// comment
-// 
-// xyz
